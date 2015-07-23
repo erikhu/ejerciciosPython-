@@ -2,7 +2,9 @@
 '''
 Autor: Erik Alexander Gonzalez Cardona
 
-Descripcion: script que recibe tres numeros y muestra la suma de esos numeros, luego encuentra la lista de todas las tripletas de números naturales que sumen lo mismo que los numeros entrados por el usuario
+Descripcion: script que recibe tres numeros y muestra la suma de esos numeros,
+luego encuentra la lista de todas las tripletas de números naturales que sumen
+lo mismo que los numeros entrados por el usuario
 '''
 n = []
 r = 0
