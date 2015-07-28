@@ -18,9 +18,9 @@ def calcularIntegral(xInicial,xFinal, div):
 		contador = contador+1
 	print(total)
 
-x1 = input("ingrese el xinicial: ")
-x2 = input("ingrese el xfinal: ")
-d = input("ingrese cuantas veces quiere dividir el espacio: ")	
+x1 = float(input("ingrese el xinicial: "))
+x2 = float(input("ingrese el xfinal: "))
+d = float(input("ingrese cuantas veces quiere dividir el espacio: "))	
 	
 calcularIntegral(x1,x2,d)
 
